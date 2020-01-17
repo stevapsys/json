@@ -1,0 +1,8 @@
+[
+    {"nome":"Maria","idiomas":["mandarim","ingl\u00eas","espanhol"],"informatica":["Office","Java","HTML","CSS","PHP","Phyton"]},
+    {"nome":"Jo\u00e3o","idiomas":"ingl\u00eas","informatica":["Office","Photoshop"]},
+    {"nome":"Jos\u00e9","idiomas":["franc\u00eas","alem\u00e3o"],"informatica":["C","C#"]},
+    {"nome":"Enzo","idomas":["ingl\u00eas","espanhol"],"informatica":["HTML","CSS"]}
+]
+
+
